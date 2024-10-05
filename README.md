@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">In order to use the database, you must use the provided schema.sql file and import this into your own database. Steps to do this can be found here.</p>
+<p align="left">In order to use the database, you must use the provided schema.sql file and import this into your own database. Steps to do this can be found [here](https://support.hostinger.com/en/articles/1884149-how-to-import-a-database-with-phpmyadmin).</p>
 
 ###
 
